@@ -1,6 +1,3 @@
-Here's a concise `README.md` for your Prime Pattern Generator project:
-
-```markdown
 # Prime Pattern Generator
 
 Converts numeric patterns into prime numbers by intelligently modifying digits while preserving the original structure.
