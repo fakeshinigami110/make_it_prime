@@ -46,7 +46,7 @@ Converts numeric patterns into prime numbers by intelligently modifying digits w
 11111110000000000000000011111111111111111111111
 11111131111111111111111111111111111111111111117
 ```
-*(3 and 7 appear in red in terminal)*
+*(3 and 7 appear in red in terminal )*
 
 ---
 
