@@ -4,7 +4,7 @@ Converts numeric patterns into prime numbers by intelligently modifying digits w
 
 ## Features
 
-- Transforms 0/1 patterns into prime numbers with minimal changes
+- Transforms patterns into prime numbers with minimal changes
 - Preserves visual pattern structure
 - Highlights modified digits in red
 - Handles large patterns (700+ digits)
