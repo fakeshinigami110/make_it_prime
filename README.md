@@ -75,7 +75,7 @@ pyinstaller --onefile --icon=assets/app.ico prime_pattern.py
 ```
 
 ## Algorithm
-1. Detects most frequent pattern character (e.g., '0')
+1. Detects most frequent pattern character (e.g, '0')
 2. Systematically tests minimal digit changes
 3. Highlights both original pattern and modified digits
 4. Uses Miller-Rabin primality test for large numbers
